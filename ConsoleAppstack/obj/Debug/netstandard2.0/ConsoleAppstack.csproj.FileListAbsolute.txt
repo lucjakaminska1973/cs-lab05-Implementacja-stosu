@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Stack\ConsoleAppstack\bin\Debug\netstandard2.0\ConsoleAppstack.deps.json
+C:\Users\Administrator\source\repos\Stack\ConsoleAppstack\bin\Debug\netstandard2.0\ConsoleAppstack.dll
+C:\Users\Administrator\source\repos\Stack\ConsoleAppstack\bin\Debug\netstandard2.0\ConsoleAppstack.pdb
+C:\Users\Administrator\source\repos\Stack\ConsoleAppstack\bin\Debug\netstandard2.0\Stos.dll
+C:\Users\Administrator\source\repos\Stack\ConsoleAppstack\bin\Debug\netstandard2.0\Stos.pdb
+C:\Users\Administrator\source\repos\Stack\ConsoleAppstack\obj\Debug\netstandard2.0\ConsoleAppstack.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Stack\ConsoleAppstack\obj\Debug\netstandard2.0\ConsoleAppstack.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Stack\ConsoleAppstack\obj\Debug\netstandard2.0\ConsoleAppstack.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Stack\ConsoleAppstack\obj\Debug\netstandard2.0\ConsoleAppstack.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Stack\ConsoleAppstack\obj\Debug\netstandard2.0\ConsoleAppstack.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Stack\ConsoleAppstack\obj\Debug\netstandard2.0\ConsoleAppstack.dll
+C:\Users\Administrator\source\repos\Stack\ConsoleAppstack\obj\Debug\netstandard2.0\ConsoleAppstack.pdb

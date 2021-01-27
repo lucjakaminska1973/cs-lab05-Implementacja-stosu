@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Q9c7zHGS3jTuobzJRUDzFo4tpHb2Ydb3E2pqOlcbOLbMtBE/Lu4jcSeseDfnkoGxD011+r4wITeeG3lLkHPng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Stack\\ConsoleAppStos\\ConsoleAppStos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.diagnostics.tracing.traceevent\\2.0.62\\microsoft.diagnostics.tracing.traceevent.2.0.62.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

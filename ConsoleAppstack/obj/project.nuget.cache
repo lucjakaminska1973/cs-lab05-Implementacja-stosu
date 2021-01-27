@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uueu4ZALMWm3kjCWjl6ouZIgBlSeD/iNoZjl4p70TqEoW9NaQfVBNy78MGc2poj61TvcJ/SN/K06cH9pX3xgDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Stack\\ConsoleAppstack\\ConsoleAppstack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
